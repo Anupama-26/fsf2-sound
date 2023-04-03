@@ -1,0 +1,70 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Abel&family=Andika&family=Barlow+Semi+Condensed:ital,wght@0,300;1,200&family=Lato:ital,wght@0,400;1,300;1,400&family=Noto+Sans:ital,wght@0,200;1,100;1,200&family=Noto+Serif:wght@700&family=Poppins:ital,wght@0,300;0,400;0,600;0,700;1,100&family=Roboto&family=Roboto+Condensed&family=Ubuntu:ital@1&display=swap');
+
+
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	background: #f9f5ed;
+	font-family: 'Poppins', sans-serif;
+	
+}
+nav{
+	padding: 20px 10%;
+	height: 15vh;
+
+}
+nav ul{
+	display: flex;
+	list-style: none;
+	
+	align-items: center;
+}
+nav ul li{
+	margin-right: 5%;
+	font-weight: 500;
+
+}
+/* css for hero section*/
+main{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-left: 10%
+}
+.leftmain{
+	width: 40%;
+
+
+}
+.leftmain{
+	font-size: 30px;
+}
+.leftmain p{
+	margin: 5% 0;
+}
+.leftmain button{
+	padding: 15px 20px;
+	border: none;
+	background-color: #3b855d;
+	cursor: pointer;
+	border-radius: 10px;
+	color: white;
+	font-weight: 500;
+}
+
+.rightmain{
+	width: 60%;
+	margin-bottom: 100px;
+
+}
+.img2{
+	padding-left: 10px;
+}
+.img3{
+	padding-top: 10px;
+}
+.image{
+	padding-left: 20px;
+}
